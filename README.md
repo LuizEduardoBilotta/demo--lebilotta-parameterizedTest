@@ -49,7 +49,7 @@ $ git clone https://github.com/LuizEduardoBilotta/demo--lebilotta-parameterizedT
 
 ```sh
 # Acesse o diretório do projeto:
-$ cd demo-springai-groq
+$ cd demo--lebilotta-parameterizedTest
 
 # Realize o build:
 $ mvn clean install
